@@ -1,2 +1,2 @@
 # Algorithm-for-middle-class
-Algorithm strategy for problem solvinf
+Algorithm strategy for problem solving
